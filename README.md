@@ -127,6 +127,7 @@ Azure API Management is a service that works as a gateway to different APIs behi
 
 ### Cars Island Mail Sender Function App was developed with .NET Core (3.1)
 
+### Testing
 
 # Repository structure
 
